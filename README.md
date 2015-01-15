@@ -1,4 +1,6 @@
-<h1>Grunt/AngularJS boilerplate</h1>
+<h1>Grunt/AngularJS Boilerplate</h1>
+
+<p>Personal boilerplate - work in progress - using grunt for precompilation of HTML partials, LESS, and AngularJS controllers, factories, services, and filters.</p>
 
 <h4>Requirements</h4>
 
