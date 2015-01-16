@@ -1,6 +1,3 @@
-'use strict';
-
-var app = angular.module('PrismApp', []);
 app.controller('MainCtrl', ['$scope', function($scope) {
 	
 	$scope.form = {
@@ -35,5 +32,3 @@ app.controller('MainCtrl', ['$scope', function($scope) {
 	$scope.update();
 	
 }]);
-
-
